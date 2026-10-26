@@ -1,0 +1,4 @@
+# Direct dependencies for Python 3.12, matching the tested local environment.
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.11.2

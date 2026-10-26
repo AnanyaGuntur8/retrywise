@@ -1,0 +1,4 @@
+Policy,Success rate (%),Duplicate charges,Retry exhausted,Total API attempts,Mean latency (ms),p95 latency (ms)
+No retries,70.7,0,141,600,45.0,45.0
+Retries with idempotency,93.3,0,1,760,71.7,172.2
+Retries without idempotency,93.3,33,1,761,72.0,173.5
